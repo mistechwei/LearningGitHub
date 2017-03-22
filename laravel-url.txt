@@ -1,0 +1,7 @@
+http://www.laravel-dojo.com/opensource/wagon
+https://github.com/laravel-dojo/wagon
+
+http://www.laravel-dojo.com/workshops/201507-ntpc
+
+https://github.com/laravel-dojo/201507-ntpc-blog-example
+https://github.com/laravel-dojo/201507-ntpc-php-example
